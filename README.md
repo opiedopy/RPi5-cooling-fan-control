@@ -8,4 +8,4 @@ choose to nano the manual speed setpoint.
 Note that Q1 is NPN small half-round signal transistor and Q2 is power transistor in metal tab config.    
 Make sure you wire according to 1-2-3 = E-B-C on Q1 and 1-2-3 = B-C-E on Q2.
 
-<img width="692" height="752" alt="screenshot-2026-01-19-223334" src="https://github.com/user-attachments/assets/f5af99f0-9a40-4976-83ac-8f5c9e933fd4" />
+
