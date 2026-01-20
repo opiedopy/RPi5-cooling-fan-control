@@ -7,4 +7,9 @@
 this is a test of code space
 this is a test of code space
 this is a test of code space
-this is a test of code space~~~
+this is a test of code space```
+
+this is a *test* of italic
+this is a test of ~~strikeout~~
+this is a test of **bold**
+this is a test of ***both***
