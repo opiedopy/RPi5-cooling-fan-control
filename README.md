@@ -28,3 +28,4 @@ except KeyboardInterrupt:
     fan.off()
     print("\nStopped.")
 ```
+above run in terminal after system start by typing: :~ $ python fan-35-60hz.py
